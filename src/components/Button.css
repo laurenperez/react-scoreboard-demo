@@ -1,0 +1,25 @@
+.default-button {
+  background-color: #e0e1e6;
+  border-radius: 100%;
+  color: #000000;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: lighter;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+}
+
+.increment {
+  background-color: rgb(97, 133, 211);
+}
+
+.decrement {
+  background-color: rgb(187, 70, 70);
+}
+
+.clear {
+  background-color: #e0e1e6;
+}
